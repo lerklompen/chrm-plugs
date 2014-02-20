@@ -781,9 +781,9 @@ if [ -n "${1:-}" ] && [ "$1" != "--config" ]; then
   exit 1
 fi
 
-prompt "$WORKDIR
-$DEVICE
-$CONFIGURL
+prompt "$WORKDIR \n
+$DEVICE \n
+$CONFIGURL \n
 $MYVERSION"
 read input
 if [ "$input" != "YES" ]; then
