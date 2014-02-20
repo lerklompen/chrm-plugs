@@ -5,7 +5,7 @@ chrm-plugs
 
 ## Usage
 
- * CTRL+ALT+T (launch crosh)
+ * `CTRL+ALT+T` to launch crosh
  * Enter `shell`
  * Become root: `sudo su`
 
