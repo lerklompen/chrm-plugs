@@ -781,7 +781,7 @@ if [ -n "${1:-}" ] && [ "$1" != "--config" ]; then
   exit 1
 fi
 
-prompt "$WORKDIR \n
+echo "$WORKDIR \n
 $DEVICE \n
 $CONFIGURL \n
 $MYVERSION"
