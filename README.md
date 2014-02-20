@@ -11,6 +11,6 @@ chrm-plugs
 
 Run the following as root user:
 
-    wget -qO- http://goo.gl/aSpdQN | sh
+    curl https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh > chrm-plugs;sh chrm-plugs
 
 
