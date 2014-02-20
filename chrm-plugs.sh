@@ -786,6 +786,9 @@ $DEVICE
 $CONFIGURL
 $MYVERSION"
 read input
+if [ "$input" != "YES" ]; then
+  quit
+fi
 
 echo "
 Is this the device you want to put the recovery image on?
