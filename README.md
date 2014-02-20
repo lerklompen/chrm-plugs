@@ -1,7 +1,7 @@
 chrm-plugs
 ==========
 
-> Enable third party plugins on Chromium OS
+> Enable third party plugins on Chromium OS (flash, google talk, mp3/4 codecs, pdf viewer)
 
 ## Usage
 
