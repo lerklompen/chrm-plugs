@@ -787,4 +787,14 @@ $CONFIGURL
 $MYVERSION"
 read input
 
+echo "
+Is this the device you want to put the recovery image on?
+
+"
+prompt "You must enter 'YES' (all uppercase) to continue: "
+read tmp
+if [ "$tmp" != "YES" ]; then
+  quit
+fi
+
 exit 0
