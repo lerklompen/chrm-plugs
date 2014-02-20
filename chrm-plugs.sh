@@ -781,10 +781,11 @@ if [ -n "${1:-}" ] && [ "$1" != "--config" ]; then
   exit 1
 fi
 
-echo "$WORKDIR \n
-$DEVICE \n
-$CONFIGURL \n
-$MYVERSION"
+echo "$WORKDIR
+$DEVICE
+$CONFIGURL
+$MYVERSION
+You must enter 'YES' (all uppercase) to continue: "
 read input
 if [ "$input" != "YES" ]; then
   quit
