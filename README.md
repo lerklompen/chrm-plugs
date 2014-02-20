@@ -1,13 +1,16 @@
 chrm-plugs
 ==========
 
-Enable third party plugins on Chromium OS
+> Enable third party plugins on Chromium OS
 
-CTRL+ALT+T (launch crosh)
-Enter 'shell'
+## Usage
 
-Become root: 'sudo su'
+ * CTRL+ALT+T (launch crosh)
+ * Enter `shell`
+ * Become root: `sudo su`
 
-wget -qO- http://goo.gl/aSpdQN | sh
+Run the following as root user:
 
-(write how-to)
+    wget -qO- http://goo.gl/aSpdQN | sh
+
+
