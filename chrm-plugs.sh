@@ -785,5 +785,6 @@ prompt "$WORKDIR
 $DEVICE
 $CONFIGURL
 $MYVERSION"
+read input
 
 exit 0
