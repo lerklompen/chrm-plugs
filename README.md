@@ -14,3 +14,9 @@ Run the following as root user:
     curl https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh > chrm-plugs;sh chrm-plugs
 
 
+> Configuration of a Synaptics ClickPad on a ProBook 4320s
+
+Run the following as a root user:
+
+    curl https://raw.github.com/lerklompen/chrm-plugs/master/config-clickpad.sh > clickpad.sh ; bash clickpad.sh
+
