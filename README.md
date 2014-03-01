@@ -14,7 +14,11 @@ Run the following as root user:
     curl https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh > chrm-plugs;sh chrm-plugs
 
 
-> Configuration of a Synaptics ClickPad on a ProBook 4320s
+## Configuration of a Synaptics ClickPad on a ProBook 4320s
+ * `CTRL+ALT+T` to launch crosh
+ * Enter `shell` in "crosh"
+ * Enter `cd` to open chronos user directory
+ * Become root: `sudo su`
 
 Run the following as a root user:
 
