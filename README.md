@@ -11,8 +11,9 @@ chrm-plugs
 
 Run the following as root user:
 
-    curl https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh > chrm-plugs;sh chrm-plugs
+    curl http://goo.gl/aSpdQN > chrm-plugs;sh chrm-plugs
 
+( https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh )
 
 ## Configuration of a Synaptics ClickPad on a ProBook 4320s
  * `CTRL+ALT+T` to launch crosh
