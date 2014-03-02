@@ -22,5 +22,7 @@ Run the following as root user:
 
 Run the following as a root user:
 
-    curl https://raw.github.com/lerklompen/chrm-plugs/master/config-clickpad.sh > clickpad.sh ; bash clickpad.sh
+    curl http://goo.gl/VZwOcV > clickpad.sh ; bash clickpad.sh
 
+#http://goo.gl/VZwOcV
+#https://raw.github.com/lerklompen/chrm-plugs/master/config-clickpad.sh
