@@ -11,7 +11,7 @@ chrm-plugs
 
 Run the following as root user:
 
-    curl http://goo.gl/aSpdQN > chrm-plugs;sh chrm-plugs
+    curl -L http://goo.gl/aSpdQN > chrm-plugs;sh chrm-plugs
 
 ( https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh )
 
@@ -23,7 +23,7 @@ Run the following as root user:
 
 Run the following as a root user:
 
-    curl http://goo.gl/VZwOcV > clickpad.sh ; bash clickpad.sh
+    curl -L http://goo.gl/VZwOcV > clickpad.sh ; bash clickpad.sh
 
 ( http://goo.gl/VZwOcV )
 ( https://raw.github.com/lerklompen/chrm-plugs/master/config-clickpad.sh )
