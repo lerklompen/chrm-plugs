@@ -11,7 +11,7 @@ chrm-plugs
 
 Run the following as root user:
 
-    curl -L http://goo.gl/aSpdQN > chrm-plugs;sh chrm-plugs
+    curl -L http://goo.gl/aSpdQN > chrm-plugs ; bash chrm-plugs
 
 ( https://raw2.github.com/lerklompen/chrm-plugs/master/chrm-plugs.sh )
 
